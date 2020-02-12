@@ -1,0 +1,62 @@
+
+
+                  Questions To Be Answered
+NOTE: the following questions will be read by a program.  Please enter
+the information on the empty line FOLLOWING each question.  These
+questions will give me some information about you to set up the
+grading data base and also to help me assign you to your team.
+
+
+On the following blank line, enter your name (Last, First):
+Castillo, Jake
+
+On the following blank line, enter the lab section you are in (001,002,003,004):
+003 
+ 
+On the following blank line, enter your wiliki login id:
+jakecast
+
+On the following blank line, enter the last 4 digits of your UH ID:
+0535
+
+On the following blank line, tell me what name you prefer going by:
+Jake
+
+On the following blank line, enter your major (EE,CENG,ME,CE, etc.):
+EE
+
+On the following blank line, enter your class standing (Fr,So,Jr,Sr,Grad):
+Fr
+
+On the following line, enter a comma separated list of other classes you are taking:
+CHEM 161, ENG 100, MATH 241 
+ 
+On the following line, enter your overall GPA:
+2.54 
+ 
+Enter the results of your learning style questionaire
+exactly as shown on the results page on the following line:
+Relfective(9)/Sensing(3)/Visual(3)/Sequential(3) 
+ 
+
+
+
+You may answer the following questions by adding as many
+lines as you need:
+
+(1)  What kinds of computers, Operating Systems, and software
+     applications have you used before?
+I have worked with Mac OS, Windows and Linux based operating systems in
+the past.
+(2)  Have you done any programming?  If so, what languages?
+I have worked with java and a little bit of c in the past.
+(3)  Do you have a laptop?  If so, what kind?
+I have a 15 inch Macbook Pro.
+(4)  Do you dorm?  commute from nearby?  or commute from far away?
+I commute from Kailua.
+(5)  Why are you taking this course? (just briefly).
+I am taking this course to fulfil my programming requirement, but I very
+interested in what this course has to offer.
+(6)  What do you expect to get from this course?
+I expect to be able to understand C to the best of my ability and also make
+friends.

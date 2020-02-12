@@ -1,0 +1,161 @@
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #1
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #2
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #3
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #4
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+Point #1: (Austin,0,0)
+Point #2: (Nathan,0,100)
+Point #3: (Chris,100,0)
+Point #4: (Knuckles,5,5)
+Knuckles is within the polygon.
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #5
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+Point #1: (Austin,0,0)
+Point #2: (Nathan,0,100)
+Point #3: (Chris,100,0)
+Point #4: (Knuckles,5,5)
+Point #5: (Uganda,5,7)
+Uganda is within the polygon.
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #6
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+Point #1: (Austin,0,0)
+Point #2: (Nathan,0,100)
+Point #3: (Chris,100,0)
+Point #4: (Knuckles,5,5)
+Point #5: (Uganda,5,7)
+Point #6: (Caesar,-100,-100)
+Caesar is outside the polygon.
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+Must have at least 3 people to form in a polygon and 1 person to find inside of the polygon
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #1
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #2
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #3
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+Must have at least 3 people to form in a polygon and 1 person to find inside of the polygon
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+name(no spaces) x y: Added point #4
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================
+Point #1: (Austin,0,0)
+Point #2: (Nathan,0,100)
+Point #3: (Chris,100,0)
+Point #4: (Knuckles,500,500)
+Knuckles is outside the polygon.
+============================================================
+person:   Add a new person
+find:     Determine if the last person is within the polygon
+          formed by the others
+clear:    Clear all points
+quit:     Quit the program
+============================================================

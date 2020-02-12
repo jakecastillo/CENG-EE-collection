@@ -1,0 +1,19 @@
+person Austin 0 0
+person Nathan 0 100
+person Chris 100 0
+person Knuckles 5 5
+find
+person Uganda 5 7
+find
+person Caesar -100 -100
+find
+clear
+find
+person Austin 0 0
+person Nathan 0 100
+person Chris 100 0
+find
+person Knuckles 500 500
+find
+quit
+

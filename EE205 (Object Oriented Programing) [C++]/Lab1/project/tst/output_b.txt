@@ -1,0 +1,8 @@
+Initial balance, dude The actions, dude:
+d: deposit money, dude
+w: withdraw money, dude
+g: get balence, dude
+s: show transations, dude
+q: quit, dude
+========================================
+Whatcha want, dude ok bye, dude

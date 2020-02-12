@@ -1,0 +1,41 @@
+temptbl.c
+1) From the main, Set parameters for program for main
+
+    1. Ask user to enter the stat temperture value
+
+    2. Ask user to enter the end temperture value
+
+2) In tocelsius function, set parameters for tocelsius
+
+    1. Program gets Fahrenheit value
+
+    2. Converts Fahrenheit value to celsius value in converting equation
+
+    3. Celsius value is returned
+
+3) In temptable function, Set parameters for temptable
+
+    1. Program gets converstion from tocelsius function
+
+    2. Increase the values to increments of 5
+
+    3. Print the new values until start value is greater than stop value and
+is returned
+
+4) From the main, Program recalls the temptable function
+
+    1. Print the values from the return in temptable function
+
+    2. Program repeats steps 1-4 until user enters the same value for start
+and stop
+
+Account.c
+1) Ask for initial amount
+2) While inital amount is more than 0
+	a) ask for interest rate
+	b) ask for years
+	c) calculate account amount + account amount * annual interest *
+years
+	d) print result
+3) When inital amount is 0
+	a) end loop

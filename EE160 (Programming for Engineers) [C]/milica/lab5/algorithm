@@ -1,0 +1,12 @@
+Algorithm for temperature table
+Prompt user for starting and stop temperature in fahrenheit
+If number is negative, turn it into a positive value
+Starting temperature will step up five degrees each calculation
+If the first number is less than the second number, convert start fahrenheit to celsius
+Celsius = (fahrenheit - 32) * 5 / 9
+Give value back
+Step up five and repeat calculations until you reach stop fahrenheit
+If second number is less than the first number, swap the numbers around convert start
+fahrenheit to celsius
+Give value back
+Step up five and repeat calculations until you reach stop fahrenheit

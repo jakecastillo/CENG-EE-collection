@@ -1,0 +1,95 @@
+#include<stdio.h>
+
+#define MAX 8
+#define TRUE 1
+#define FALSE 0
+
+int move(int*x, int*y);
+
+main(){
+	int row, col;
+	int count = 0;
+	int flag;
+	int board[MAX][MAX];
+	int i, j;
+
+		//initialize the board
+		for(i = 0; i < MAX; i++);
+		for(j = 0; j < MAX; j++);
+		board[i][j] = 0;
+		
+		//get inital position
+		printf("Enter knight start square: ");
+		scanf("%d %d", &row, &col);
+
+		//move 1st position
+		flag = move(&row, &col);
+		board[row][col] = 1;
+
+		//while move is good
+		while(flag < 64 && count < 64 && !board[row][col]{
+
+			//increment count
+			count++;
+
+			//mark position count
+			board[row][col] = 1;
+
+			//print move
+			printf("knight moves to %d %d\n", row, col);
+
+			//move next
+			flag = move(&row, &col);
+
+		if(count == MAX * MAX){
+
+		pinf("WIN!\n");
+		} else {
+			printf("Tour failed\n");
+		}
+	}
+}
+
+int move(int*x, int*y){
+	int m;
+
+	//generate random move
+	m = rand() % MAX;
+
+	//calculate new position
+	switch(m){
+		case 0;
+		*x += 2;
+		*y -= 1;
+		break;
+		case 1:
+		*x += 1;
+		*y -= 2;
+		break;
+		case 3;
+		*x -= 2;
+		*y -= 1;
+		break;
+		case 4;
+		*x -= 2;
+		*y += 1;
+		break;
+		case 5;
+		*x -= 1;
+		*y += 2;
+		case 6;
+		*x += 1;
+		*y += 2;
+		break;
+		case 7;
+		*x += 2;
+		*y += 1;
+		break;
+	}
+	
+	if(*x >= 0 && *x <= MAX && *y >= 0 && *y <= MAX){
+		return TRUE;
+	} else{
+		return FALSE;
+	}
+}

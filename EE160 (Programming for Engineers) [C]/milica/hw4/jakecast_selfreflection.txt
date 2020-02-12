@@ -1,0 +1,10 @@
+Homework 4 self reflection.
+
+This was by far the only homework we as a group have had a lot of problems
+with. The assignment was extremely difficult and it fell between a time were
+our group had a lot of other priorities to take care of as well. We worked
+together as much as possible, but constant communication was difficult. The
+assignment itself was difficult because in order to read in columns we
+weren't allowed to pass a matrix. In the homework it said we had to pass
+an array in order to do that. Overall I feel like we could have done better
+given a bit longer of time restraints.
