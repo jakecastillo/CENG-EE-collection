@@ -15,7 +15,7 @@ struct Node *createList(int startVal, int finishVal);
 
 struct Node *reorderList(struct Node *head);
 
-void main()
+void main() 
 {
 
 struct Node *p = createList(3,13);
@@ -49,7 +49,7 @@ struct Node *reverse(struct Node *head)
 
   if (length == 1)
     return head;
-
+  
   node = head->next;
   struct Node *nextNode = node->next;
   struct Node *temp = NULL;
@@ -82,7 +82,7 @@ struct Node *reorderList(struct Node *head){
         reposn = (length / 2) - 1;
     else
         reposn = floor(length / 2);
-
+    
     struct Node *repos = head;
     struct Node *prevrepos;
 
@@ -151,3 +151,4 @@ for (int i=startVal; i<=finishVal; i++) {
 }
 return head;
 }
+
